@@ -1,0 +1,10 @@
+{
+  "Name": "WarpToFarm",
+  "Author": "Exxude",
+  "Version": "1.0.0",
+  "Description": "Allows you to warp to your farm by spending Stamina.",
+  "UniqueID": "Exxude.WarpToFarm",
+  "EntryDll": "WarpToFarm.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
